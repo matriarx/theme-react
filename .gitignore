@@ -1,0 +1,28 @@
+# os
+Desktop.ini
+Thumbs.db
+.DS_Store
+._*
+
+# ide
+*.swp
+*.save*
+.vscode
+.idea
+
+# npm
+node_modules
+yarn.lock
+pnpm-lock.yaml
+
+# build
+.swc
+/lib
+/types
+*.map
+
+# local
+.env
+coverage
+cache
+*.log
